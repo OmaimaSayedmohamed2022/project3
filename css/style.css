@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    height: 5000px;
+    position: relative;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.fixedimg{
+width: 100%;
+height: 250px;
+background-attachment: fixed;
+}
+.fixedimg1{
+    background-image: url(../images/artificial-intelligence-3706562__340.jpg); 
+}
+ .fixedimg2{
+    background-image: url(../images/artificial-intelligence-3706562__340.jpg); 
+ }
+ .formbtn{
+    margin-left: 550px;
+    padding: 0px 20px;
+} 
+code{
+margin-top: 20px;
+}
